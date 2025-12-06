@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1764983429664" clover="3.2.0">
+  <project timestamp="1764983429664" name="All files">
+    <metrics statements="201" coveredstatements="154" conditionals="224" coveredconditionals="112" methods="48" coveredmethods="34" elements="473" coveredelements="300" complexity="0" loc="201" ncloc="201" packages="1" files="43" classes="43"/>
+    <file name="add.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\add.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="at.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\at.js">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="19" count="0" type="stmt"/>
+    </file>
+    <file name="camelCase.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\camelCase.js">
+      <metrics statements="4" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+    </file>
+    <file name="capitalize.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\capitalize.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="castArray.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\castArray.js">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="35" count="1" type="cond" truecount="1" falsecount="1"/>
+    </file>
+    <file name="ceil.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\ceil.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="chunk.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\chunk.js">
+      <metrics statements="10" coveredstatements="9" conditionals="7" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="25" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+    </file>
+    <file name="clamp.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\clamp.js">
+      <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="23" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="24" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="25" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="28" count="1" type="stmt"/>
+    </file>
+    <file name="compact.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\compact.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="countBy.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\countBy.js">
+      <metrics statements="7" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="30" count="0" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="37" count="0" type="stmt"/>
+    </file>
+    <file name="defaultTo.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\defaultTo.js">
+      <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="20" count="1" type="cond" truecount="1" falsecount="1"/>
+    </file>
+    <file name="defaultToAny.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\defaultToAny.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="29" count="1" type="stmt"/>
+    </file>
+    <file name="difference.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\difference.js">
+      <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+    </file>
+    <file name="divide.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\divide.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="drop.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\drop.js">
+      <metrics statements="2" coveredstatements="2" conditionals="7" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="27" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="28" count="1" type="cond" truecount="1" falsecount="1"/>
+    </file>
+    <file name="endsWith.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\endsWith.js">
+      <metrics statements="9" coveredstatements="7" conditionals="10" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="26" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="29" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="30" count="0" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="34" count="1" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="eq.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\eq.js">
+      <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="32" count="1" type="cond" truecount="1" falsecount="2"/>
+    </file>
+    <file name="every.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\every.js">
+      <metrics statements="6" coveredstatements="5" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+    </file>
+    <file name="filter.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\filter.js">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="1" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+    <file name="get.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\get.js">
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="28" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="29" count="1" type="cond" truecount="1" falsecount="1"/>
+    </file>
+    <file name="isArguments.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isArguments.js">
+      <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+    </file>
+    <file name="isArrayLike.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isArrayLike.js">
+      <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="27" count="2" type="cond" truecount="3" falsecount="0"/>
+    </file>
+    <file name="isArrayLikeObject.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isArrayLikeObject.js">
+      <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+    </file>
+    <file name="isBoolean.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isBoolean.js">
+      <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="20" count="2" type="cond" truecount="3" falsecount="1"/>
+    </file>
+    <file name="isBuffer.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isBuffer.js">
+      <metrics statements="6" coveredstatements="6" conditionals="17" coveredconditionals="7" methods="1" coveredmethods="0"/>
+      <line num="4" count="1" type="cond" truecount="1" falsecount="3"/>
+      <line num="7" count="1" type="cond" truecount="1" falsecount="4"/>
+      <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="13" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="16" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="33" count="1" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="isDate.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isDate.js">
+      <metrics statements="4" coveredstatements="3" conditionals="6" coveredconditionals="4" methods="2" coveredmethods="1"/>
+      <line num="6" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="23" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="25" count="1" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="isEmpty.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isEmpty.js">
+      <metrics statements="14" coveredstatements="5" conditionals="19" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="46" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="49" count="1" type="cond" truecount="3" falsecount="6"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="55" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="56" count="0" type="stmt"/>
+      <line num="58" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="59" count="0" type="stmt"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="62" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="63" count="0" type="stmt"/>
+      <line num="66" count="0" type="stmt"/>
+    </file>
+    <file name="isLength.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isLength.js">
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="29" count="2" type="cond" truecount="4" falsecount="0"/>
+    </file>
+    <file name="isObject.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isObject.js">
+      <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="26" count="2" type="cond" truecount="3" falsecount="0"/>
+    </file>
+    <file name="isObjectLike.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isObjectLike.js">
+      <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="24" count="2" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="isSymbol.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isSymbol.js">
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="20" count="3" type="cond" truecount="3" falsecount="1"/>
+    </file>
+    <file name="isTypedArray.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\isTypedArray.js">
+      <metrics statements="5" coveredstatements="3" conditionals="6" coveredconditionals="2" methods="2" coveredmethods="0"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+    </file>
+    <file name="keys.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\keys.js">
+      <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="32" count="1" type="cond" truecount="1" falsecount="1"/>
+    </file>
+    <file name="map.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\map.js">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
+    <file name="memoize.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\memoize.js">
+      <metrics statements="13" coveredstatements="11" conditionals="13" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <line num="44" count="1" type="cond" truecount="4" falsecount="1"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="48" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="49" count="1" type="stmt"/>
+      <line num="51" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="52" count="0" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+      <line num="55" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="58" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+    </file>
+    <file name="reduce.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\reduce.js">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="39" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+    </file>
+    <file name="slice.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\slice.js">
+      <metrics statements="16" coveredstatements="13" conditionals="16" coveredconditionals="7" methods="1" coveredmethods="1"/>
+      <line num="22" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="23" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="26" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="27" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="29" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="32" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="35" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="36" count="4" type="stmt"/>
+      <line num="38" count="4" type="stmt"/>
+      <line num="39" count="4" type="stmt"/>
+      <line num="40" count="4" type="stmt"/>
+      <line num="41" count="8" type="stmt"/>
+      <line num="43" count="4" type="stmt"/>
+    </file>
+    <file name="toFinite.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\toFinite.js">
+      <metrics statements="9" coveredstatements="6" conditionals="12" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="29" count="4" type="cond" truecount="1" falsecount="1"/>
+      <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="32" count="4" type="stmt"/>
+      <line num="33" count="4" type="cond" truecount="3" falsecount="1"/>
+      <line num="34" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="37" count="4" type="cond" truecount="1" falsecount="1"/>
+    </file>
+    <file name="toInteger.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\toInteger.js">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="30" count="3" type="stmt"/>
+      <line num="32" count="3" type="cond" truecount="2" falsecount="0"/>
+    </file>
+    <file name="toNumber.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\toNumber.js">
+      <metrics statements="18" coveredstatements="14" conditionals="22" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="45" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="46" count="4" type="stmt"/>
+      <line num="48" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="49" count="0" type="stmt"/>
+      <line num="51" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="53" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="55" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="58" count="1" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="60" count="1" type="cond" truecount="3" falsecount="1"/>
+    </file>
+    <file name="toString.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\toString.js">
+      <metrics statements="9" coveredstatements="7" conditionals="12" coveredconditionals="6" methods="2" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="28" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="31" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="33" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="35" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="36" count="0" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="39" count="1" type="cond" truecount="2" falsecount="2"/>
+    </file>
+    <file name="upperFirst.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\upperFirst.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="words.js" path="C:\Users\Admin\Desktop\VIII - Deployment\src\words.js">
+      <metrics statements="7" coveredstatements="5" conditionals="8" coveredconditionals="3" methods="2" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="31" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="32" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="33" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+    </file>
+  </project>
+</coverage>
